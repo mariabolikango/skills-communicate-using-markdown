@@ -6,5 +6,6 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-#javascript
-var firstVar = "hello world";
+``` javascript
+var myVar = "Hello, world!";
+```
